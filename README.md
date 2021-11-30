@@ -1,1 +1,1 @@
-# Expense-Tracker--Basic.
+# Expense-Tracker--Basic
